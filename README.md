@@ -1,2 +1,2 @@
 # react-practice
-Basic react webpage of iphone
+Basic react webpage of iphone.
